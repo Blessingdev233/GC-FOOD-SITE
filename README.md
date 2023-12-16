@@ -32,7 +32,7 @@ GC-FOOD-SITE is a web-based platform that simplifies the burger ordering process
   
 - **Blessing Tetteh Lartey**
   - GitHub: [blessingdev233](https://github.com/blessingdev233)
-  - LinkedIn: [Blessing Tetteh Lartey](https://www.linkedin.com/in/blessingtettehlartey/)
+  - LinkedIn: [Blessing Tetteh Lartey](https://www.linkedin.com/in/blessing-tetteh/)
 
 ## Technologies Used
 
